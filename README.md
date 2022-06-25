@@ -1,4 +1,4 @@
 # App-KOI
 @ 
-PROGRAMMED BY @Marco Vargas 
+PROGRAMMED BY GOKU
 
